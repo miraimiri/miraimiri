@@ -1,7 +1,7 @@
 ### Hi there, I am Miriam 👋
 
 Nice to meet you. I am a trilingual fullstack web developer 👩🏼‍💻, recently graduated from LeWagon Bootcamp in Tokyo 🇯🇵 (Sep 2020 - March 2021).
-Right now I have relocated to Europe (Germany 🇩🇪) and am looking for full-time positions.
+Right now I have relocated to Europe (Austria) and am working as a Software Engineer.
 
 <br>
 
